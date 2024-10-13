@@ -4,7 +4,7 @@
 
 First introduced by Daniela Pauger and Helena Wagner in [this 2019 paper](https://projecteuclid.org/journals/bayesian-analysis/volume-14/issue-2/Bayesian-Effect-Fusion-for-Categorical-Predictors/10.1214/18-BA1096.full)[^1], effect fusion priors are designed to induce sparsity on the differences between the coefficients that represent the effects for each level of a categorical variable.
 
-My colleague [Javier Aguilar](jear2412.github.io/) and I are currently trying to expand on the core idea in ways which we hope will be useful to applied researchers. An overview of these research directions can be found on [this poster](/assets/fxfus-poster.pdf) that I presented at [Bayesian Methods for the Social Sciences II](https://bayesforshs2.sciencesconf.org).
+My colleague [Javier Aguilar](https://jear2412.github.io) and I are currently trying to expand on the core idea in ways which we hope will be useful to applied researchers. An overview of these research directions can be found on [this poster](/assets/fxfus-poster.pdf) that I presented at [Bayesian Methods for the Social Sciences II](https://bayesforshs2.sciencesconf.org).
 
 A basic **R** implementation of the density (sampling only) that I used for the plots in the poster can be found [here](https://gist.github.com/lunafazio/d8cf6a0dec24b02b89e0c2f98b4f4902).
 
