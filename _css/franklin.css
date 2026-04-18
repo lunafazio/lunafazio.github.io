@@ -6,7 +6,7 @@
   --block-background: hsl(0, 0%, 94%);
   --output-background: hsl(0, 0%, 98%);
   --small: 12px;
-  --normal: 14px;
+  --normal: 16px;
   --text-color: hsv(0, 0%, 20%);
 }
 
@@ -15,8 +15,8 @@
 ================================================================== */
 
 html {
-  /*font-family: sans-serif;*/
-  font-family: "Commit Mono", monospace;
+  font-family: sans-serif;
+  /* font-family: "Commit Mono", monospace; */
   font-size: var(--normal);
   color: var(--text-color);
 }
@@ -85,10 +85,11 @@ html {
   line-height: 1.35em;
 }
 
+/* MAIN BODY WIDTH IS SET HERE! */
 /* On wide screens, fix content width to a max value. */
 @media (min-width: 900px) {
   .franklin-content {
-    width: 600px;
+    width: 650px;
     margin-left: auto;
     margin-right: auto;
   }

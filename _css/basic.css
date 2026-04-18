@@ -50,8 +50,9 @@ header .blog-name {
   width: 35%;
   display: inline-block;
   text-align: left;
-  font-size: 18px;
-  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 24px;
+  font-family: sans-serif;
+  font-weight: bold; /* added by me */
   padding-top: 10px;
 }
 
@@ -83,18 +84,17 @@ header li a:hover {
   }
 }
 
+/* HEADER WIDTH IS SET HERE! */
 /* wide display: enforce maximum width of header to match content */
 @media (min-width: 900px) {
   header {
-    width: 600px;
+    width: 650px;
     margin-left: auto;
     margin-right: auto;
   }
 }
 
-/*
-medium display: nav goes under name
-*/
+/* medium display: nav goes under name */
 @media (max-width: 760px) {
   header { display: block; }
 
