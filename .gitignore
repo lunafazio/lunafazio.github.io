@@ -4,3 +4,4 @@ __site/
 node_modules/
 package-lock.json
 Manifest.toml
+*.code-workspace
