@@ -8,8 +8,6 @@ Previously, I have conducted research in Bayesian statistics and epidemiology. I
 
 ## Upcoming events
 
-- **July 14:** I will be supporting my colleague [Lenka](https://www.lenkafiala.com) at the [EuHEA](https://euhea.eu/pre_conference_conference_2026.html) Replication Games. [Sign-ups are open!](https://www.surveymonkey.ca/r/EuHEA_replication_games2026)
-
 - **July 18:** I will be joining my team in Barcelona for a [Conversation on the Future of Replication](https://i4replication.org/blog/conversations-on-the-future-of-replication-1-day-workshop/).
 
 ## Contact
