@@ -8,7 +8,7 @@ Previously, I have conducted research in Bayesian statistics and epidemiology. I
 
 ## Upcoming events
 
-- **July 18:** I will be joining my team in Barcelona for a [Conversation on the Future of Replication](https://i4replication.org/blog/conversations-on-the-future-of-replication-1-day-workshop/).
+- **September 25:** I will be part of the team facilitating the [2nd Münster Replication Games](https://indico.uni-muenster.de/event/4135/). Registrations are open until August 28!
 
 ## Contact
 
