@@ -8,7 +8,9 @@ Previously, I have conducted research in Bayesian statistics and epidemiology. I
 
 ## Upcoming events
 
-- **September 25:** I will be part of the team facilitating the [2nd Münster Replication Games](https://indico.uni-muenster.de/event/4135/). Registrations are open until August 28!
+- **September 25:** I will be part of the team facilitating the [2nd Münster Replication Games](https://indico.uni-muenster.de/event/4135/). Registrations are now closed.
+
+- **October 12 – 15:** I will be attending the workshops at [IOSP 2026](https://www.iosp.science/). Really excited to see how that will go!
 
 ## Contact
 
