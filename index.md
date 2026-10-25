@@ -8,16 +8,17 @@ Previously, I have conducted research in Bayesian statistics and epidemiology. I
 
 ## Upcoming events
 
-- **October 12 – 15:** I will be attending the workshops at [IOSP 2026](https://www.iosp.science/). Really excited to see how that will go!
+- **November 11 – 13:** I will take part in the [Making Replication Count](https://indico.uni-muenster.de/event/4370/) hackathon in Münster
+
+- **November 27:** I will facilitate the [Marburg Replication Games](https://bsky.app/profile/i4replication.bsky.social/post/3mycnshyffc2s)
 
 ## Contact
 
 You can find me on [Bluesky](https://bsky.app/profile/lunafazio.bsky.social)
 or contact me [via email](mailto:bmfaziol@gmail.com).
 
-Other platforms I'm on: [Google Scholar](https://scholar.google.com/citations?user=9tEblG4AAAAJ), [GitHub](https://github.com/lunafazio),
-[LinkedIn](https://www.linkedin.com/in/lunafazio/)
-
-<!--
-    [ORCID](https://orcid.org/0000-0003-0927-0907)
--->
+Other platforms that I'm on:
+[Google Scholar](https://scholar.google.com/citations?user=9tEblG4AAAAJ),
+[GitHub](https://github.com/lunafazio),
+[LinkedIn](https://www.linkedin.com/in/lunafazio/),
+[ORCID](https://orcid.org/0000-0003-0927-0907)
