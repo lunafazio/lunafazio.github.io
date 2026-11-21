@@ -8,9 +8,13 @@ Previously, I have conducted research in Bayesian statistics and epidemiology. I
 
 ## Upcoming events
 
-- **November 11 – 13:** I will take part in the [Making Replication Count](https://indico.uni-muenster.de/event/4370/) hackathon in Münster
+- **November 27:** I will organise the [Marburg Replication Games](https://bsky.app/profile/i4replication.bsky.social/post/3mycnshyffc2s)
 
-- **November 27:** I will facilitate the [Marburg Replication Games](https://bsky.app/profile/i4replication.bsky.social/post/3mycnshyffc2s)
+- **December 4:** I will give a lightning talk on reproducibility and replication at the [HELDIG 2026 Summit](https://www.helsinki.fi/en/helsinki-centre-for-digital-humanities/news/heldig-digital-humanities-summit-2026) in Helsinki
+
+- **December 8:** I will organise the [Toulouse Replication Games](https://bsky.app/profile/i4replication.bsky.social/post/3mzkzmdtz2c2h)
+
+- **December 10:** I will organise the [Poitiers Replication Games](https://bsky.app/profile/i4replication.bsky.social/post/3mzkzmdtz2c2h)
 
 ## Contact
 
